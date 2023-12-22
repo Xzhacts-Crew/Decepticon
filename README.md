@@ -92,8 +92,15 @@ cp cowrie.cfg.dist cowrie.cfg
 
 # Cloudflare
 
+curl -L --output cloudflared.deb https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb && 
 
+sudo dpkg -i cloudflared.deb && 
 
+sudo cloudflared service install eyJhIjoiZTFjODJhNjMwYjRiZDE4NGQ5NGU0ZDdhYWZiYWFkOGYiLCJ0IjoiNGExOGFiY2MtM2EzMy00MTFkLThmYWQtZjBmZWI5MWYyMDMyIiwicyI6Ik1HRTFNRFF6TldJdE5UZzNPUzAwWTJVNUxXRTBObUl0WmpObU4yVTNOalU1TnpNMCJ9
+
+masuk pada bagian public hostname
+
+![image](https://github.com/Xzhacts-Crew/Decepticon/assets/144193006/d72c16be-6366-400f-bae1-7521e8f9ea08)
 
 
 
