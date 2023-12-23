@@ -1,5 +1,12 @@
 # Pengamanan Server dengan Memanipulasi SSH
 
+# Nama Anggota Kelompok
+1. Aditya Farrel Firdaus            : 22.83.0825
+3. Muhamad Iqbal Ashari             : 22.83.0818
+4. Rayyan Abdie Azzaky              : 22.83.0811
+5. Muhammad Priandika Bayu Firdaus  : 22.83.0798
+6. Tri Azani                        : 22.83.0764
+ 
 # Service keamanan 
 - Cowrie (Manipulasi SSH)
 - Web Server
